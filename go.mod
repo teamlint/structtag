@@ -1,3 +1,3 @@
-module github.com/fatih/structtag
+module github.com/teamlint/structtag
 
 go 1.12
